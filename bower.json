@@ -1,12 +1,13 @@
 {
   "name": "bootstrap3-ie10-viewport-bug-workaround",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/Haixing-Hu/bootstrap3-ie10-viewport-bug-workaround",
   "authors": [
     "Twitter, Inc"
   ],
   "main": [
-    "./ie10-viewport-bug-workaround.js"
+    "./ie10-viewport-bug-workaround.js",
+    "./ie10-viewport-bug-workaround.css"
   ],
   "keywords": [
     "bootstrap",
