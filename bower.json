@@ -15,8 +15,5 @@
     "viewport bug"
   ],
   "license": "MIT",
-  "dependencies": {
-    "bootstrap": ">=3.0.0"
-  },
   "ignore": []
 }
